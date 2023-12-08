@@ -13,3 +13,5 @@ Lancer :
 ```
 node .\dist\app.js
 ```
+Pour lister les utilisateurs (appel d'une méthode 'Controller') :
+http://localhost:3000/users
